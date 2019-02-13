@@ -1,0 +1,3 @@
+Master changes were done to the txt file.
+
+bash ....
